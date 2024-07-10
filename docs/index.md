@@ -28,7 +28,7 @@ features:
     title: WebGL
     details: WebGL（Web Graphics Library）是一个在网页上渲染3D图形的JavaScript API。它允许开发者使用HTML5的canvas元素来绘制2D和3D图形，无需使用插件。
     linkText: 前往查看
-    link: /webGL/
+    link: /webGL/three/intro
   - icon: 📖
     title: 生活记录
     details: 记录生活中的点点滴滴，包括工作、学习、旅行、美食、音乐等。

@@ -45,7 +45,9 @@ export default defineConfig({
     },
 
     darkModeSwitchLabel: "外观",
+
     returnToTopLabel: "返回顶部",
+
     lastUpdatedText: "上次更新",
 
     docFooter: {

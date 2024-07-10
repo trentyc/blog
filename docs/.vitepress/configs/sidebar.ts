@@ -25,9 +25,15 @@ export const sidebar: DefaultTheme.Config["sidebar"] = {
   ],
   "/webGL/": [
     {
-      text: "webGL",
+      text: "three.js",
       collapsed: false,
-      items: [{ text: "基础知识", link: "/webGL/" }],
+      items: [
+        { text: "简介", link: "/webGL/three/intro" },
+        { text: "入门指南", link: "/webGL/three/getting-started" },
+        { text: "几何体和材质", link: "/webGL/three/geometry-and-materials" },
+        { text: "灯光和阴影", link: "/webGL/three/lights-and-shadows" },
+        { text: "动画与交互", link: "/webGL/three/animation-and-interaction" },
+      ],
     },
   ],
   "/life/": [
