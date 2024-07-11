@@ -1,7 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-layoutClass: "home-layout"
+pageClass: "home-layout"
 
 hero:
   name: trentyc's Blog
@@ -14,6 +14,9 @@ hero:
     - theme: brand
       text: 快速访问
       link: /frontend/html
+    - theme: alt
+      text: github
+      link: https://github.com/trentyc/blog
     - theme: alt
       text: vitepress
       link: https://vitepress.dev/zh/

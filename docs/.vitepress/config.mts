@@ -38,7 +38,7 @@ export default defineConfig({
       label: "目录",
     },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/trentyc" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/trentyc/blog" }],
 
     footer: {
       copyright: "Copyright © 2024-present trentyc",
