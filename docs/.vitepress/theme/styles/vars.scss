@@ -76,6 +76,13 @@
   --vp-home-hero-image-filter: "";
 }
 
+/**
+ * Component: Algolia
+ * -------------------------------------------------------------------------- */
+.DocSearch {
+  --docsearch-primary-color: var(--vp-c-brand) !important;
+}
+
 /* Custom styles */
 .link-text-value,
 .VPNavBarMenuLink.active {

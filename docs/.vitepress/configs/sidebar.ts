@@ -22,6 +22,10 @@ export const sidebar: DefaultTheme.Config["sidebar"] = {
       collapsed: false,
       items: [{ text: "基础知识", link: "/frontend/typeScript/" }],
     },
+    {
+      text: "面试题",
+      link: "/frontend/interview-questions",
+    },
   ],
   "/webGL/": [
     {
