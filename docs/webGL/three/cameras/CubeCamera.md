@@ -55,7 +55,7 @@ The destination cube render target.
 
 ## 方法 (Methods) {#Methods}
 
-共有方法请参见其基类 [Object3D](./PerspectiveCamer)。
+共有方法请参见其基类 [Object3D](./PerspectiveCamera)。
 
 ***.update ( renderer : WebGLRenderer, scene : Scene ) : undefined***
 

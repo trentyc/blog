@@ -4,7 +4,7 @@
 - 提在构建新摄像机时，应始终继承此类。
 - Camera 类是继承自 Object3D 类的。
 
->[官网地址]()
+>[官网地址](https://threejs.org/docs/index.html#api/zh/cameras/Camera)
 
 
 ## 构造函数 (Constructor)
@@ -14,7 +14,7 @@ Camera()
 
 ## 属性 (Properties) {#Properties}
 
-共有属性请参见其基类 [Object3D]("../core/Object3D#Properties")
+共有属性请参见其基类 [Object3D](../core/Object3D#Properties)
 
 ***.isCamera : Boolean***
 
@@ -40,7 +40,7 @@ Read-only flag to check if a given object is of type Camera.
 
 ## 方法 (Methods) {#Methods}
 
-共有方法请参见其基类 [Object3D]("../core/Object3D#Methods")
+共有方法请参见其基类 [Object3D](../core/Object3D#Methods)
 
 ***.clone ( ) : Camera***
 
