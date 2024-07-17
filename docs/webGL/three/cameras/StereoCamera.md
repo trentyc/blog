@@ -6,9 +6,6 @@
 
 <iframe id="scene" src="https://threejs.org/examples/webgl_effects_anaglyph.html"></iframe>
 
->[官网地址](https://threejs.org/docs/index.html#api/zh/cameras/StereoCamera)
-
-
 ## 构造函数 (Constructor)
 
 ```md

@@ -37,4 +37,18 @@ features:
     details: 记录生活中的点点滴滴，包括工作、学习、旅行、美食、音乐等。
     linkText: 前往查看
     link: /life/
+  - icon: 📖
+    title: NCRE
+    details: 软考学习（信息系统项目管理）。
+    linkText: 前往查看
+    link: /NCRE/MCQ
 ---
+
+
+<style>
+/*爱的魔力转圈圈*/
+.home-layout .image-src:hover {
+  transform: translate(-50%, -50%) rotate(666turn);
+  transition: transform 59s 0.3s cubic-bezier(0.3, 0, 0.8, 1);
+}
+</style>

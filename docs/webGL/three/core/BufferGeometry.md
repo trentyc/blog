@@ -4,8 +4,6 @@
 - 提供了一种通用的方式来存储和操作几何体数据。
 - 允许开发者自定义几何体的顶点数据和其他属性。
 
->[官网地址](https://threejs.org/docs/index.html#api/zh/core/BufferGeometry)
-
 ## 代码示例
 
 ```js

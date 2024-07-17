@@ -1,11 +1,8 @@
 # 摄像机 (Camera)
 
 - 摄像机的抽象基类。
-- 提在构建新摄像机时，应始终继承此类。
+- 在构建新摄像机时，应始终继承此类。
 - Camera 类是继承自 Object3D 类的。
-
->[官网地址](https://threejs.org/docs/index.html#api/zh/cameras/Camera)
-
 
 ## 构造函数 (Constructor)
 

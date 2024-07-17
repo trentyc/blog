@@ -14,6 +14,19 @@
 npm install three
 ```
 
+## 附件组件 (Addons) {#Addons}
+
+three.js 组件，如控件（controls）、加载器（loaders）和后期处理效果（post-processing effects）属于 [addons/](https://github.com/mrdoob/three.js/tree/dev/examples/jsm) 目录的一部分,需要单独导入。
+
+```js
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+const controls = new OrbitControls( camera, renderer.domElement );
+const loader = new GLTFLoader();
+```
+
 ## 基本概念
 
 - **场景 (Scene)**: 包含所有要渲染的对象。

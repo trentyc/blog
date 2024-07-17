@@ -19,11 +19,14 @@
   "dependencies": {
     "@mdit-vue/shared": "^2.1.3",
     "dayjs": "^1.11.11",
+    "three": "^0.166.1",
     "vue": "^3.4.31"
   },
   "devDependencies": {
+    "@types/three": "^0.166.0",
     "medium-zoom": "^1.1.0",
     "sass": "^1.77.6",
+    "typescript": "^5.5.3",
     "vitepress": "^1.1.4"
   }
 }

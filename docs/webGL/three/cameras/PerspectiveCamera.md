@@ -4,7 +4,6 @@
 
 <iframe id="scene" src="https://threejs.org/examples/webgl_animation_skinning_blending.html"></iframe>
 
->[官网地址](https://threejs.org/docs/index.html#api/zh/cameras/PerspectiveCamera)
 
 ## 代码示例
 

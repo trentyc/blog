@@ -5,9 +5,6 @@
 
 <iframe id="scene" src="https://threejs.org/docs/scenes/geometry-browser.html#ExtrudeGeometry"></iframe>
 
->[官网地址](https://threejs.org/docs/index.html#api/zh/geometries/ExtrudeGeometry)
-
-
 ## 代码示例
 
 ```js
