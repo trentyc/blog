@@ -5,8 +5,6 @@ ArrayCamera 用于更加高效地使用一组已经预定义的摄像机来渲�
 
 <iframe id="scene" src="https://threejs.org/examples/webgl_camera_array.html"></iframe>
 
->[官网地址](https://threejs.org/docs/index.html#api/zh/cameras/ArrayCamera)
-
 
 ## 构造函数 (Constructor)
 

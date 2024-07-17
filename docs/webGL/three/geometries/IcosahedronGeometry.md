@@ -5,8 +5,6 @@
 
 <iframe id="scene" src="https://threejs.org/docs/scenes/geometry-browser.html#IcosahedronGeometry"></iframe>
 
->[官网地址](https://threejs.org/docs/index.html#api/zh/geometries/IcosahedronGeometry)
-
 ## 构造函数 (Constructor)
 
 ```md

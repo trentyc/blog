@@ -4,8 +4,6 @@
 - 提供了一系列的属性和方法来对三维空间中的物体进行操纵。
 - 可以通过.add( object )方法来将对象进行组合，该方法将对象添加为子对象，但为此最好使用Group（来作为父对象）。
 
->[官网地址](https://threejs.org/docs/index.html#api/zh/core/Object3D)
-
 ## 构造函数 (Constructor)
 
 Object3D()

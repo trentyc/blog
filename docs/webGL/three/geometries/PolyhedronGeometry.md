@@ -5,10 +5,6 @@
 - 这个类将一个顶点数组投射到一个球面上，之后将它们细分为所需的细节级别。
 - 这个类由 DodecahedronGeometry、IcosahedronGeometry、OctahedronGeometry和TetrahedronGeometry 所使用，以生成它们各自的几何结构。
 
-
->[官网地址](https://threejs.org/docs/index.html#api/zh/geometries/PolyhedronGeometry)
-
-
 ## 代码示例
 
 ```js
