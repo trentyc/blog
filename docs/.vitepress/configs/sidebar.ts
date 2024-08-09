@@ -39,6 +39,10 @@ export const sidebar: DefaultTheme.Config["sidebar"] = {
           collapsed: true,
           items: [
             {
+              text: "BufferAttribute",
+              link: "/webGL/three/core/BufferAttribute",
+            },
+            {
               text: "BufferGeometry",
               link: "/webGL/three/core/BufferGeometry",
             },
